@@ -1,0 +1,10 @@
+﻿  Main.c
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(74): warning C4133: “函数”: 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”到“DLGPROC”的类型不兼容
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(294): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(297): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(300): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(303): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\俄罗斯方块\俄罗斯方块\main.c(306): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  elsfk.c
+  正在生成代码...
+  俄罗斯方块.vcxproj -> C:\Users\lenovo\Desktop\俄罗斯方块\x64\Debug\俄罗斯方块.exe
